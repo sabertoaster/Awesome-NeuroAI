@@ -1,6 +1,6 @@
 # Awesome NeuroAI - A Comprehensive Resource Collection
 
-> *An attempt of an undergrad to create a curated repository of computational neuroscience and brain-inspired artificial intelligence resources, which can also including Data Science, pure Math, Machine Learning, Deep Learning, and not constrictively limting beyond those topics. Leave a star if you believe I can make it, or follow me if you don't.* <div style='float: right'> SaberToaster, 2025 </div> <br>
+> *An attempt of an undergrad to create a curated repository of computational neuroscience and brain-inspired artificial intelligence resources, which can also including Data Science, pure Math, Machine Learning, Deep Learning, and not constrictively limiting beyond those topics. Leave a star if you believe I can make it, or follow me if you don't.* <div style='float: right'> SaberToaster, 2025 </div> <br>
 ## 📚 General Resources
 
 | Category           | Resource                              | Description                                                                      | URL                                                                                                                                       |

@@ -22,7 +22,7 @@
 | **External Links** | Neuromatch Academy                    | Open computational neuroscience education, which offers <br> CNS, DL and NeuroAI | [Link](https://neuromatch.io)                                                                                                             |
 |                    |                                       | Feel free to contribute through PRs                                              |                                                                                                                                           |
 
-## 📖 Foundational $_\text{(or not)}$ Literature
+## 📖 Foundational <sub>or not</sub> Literature
 
 ### Mathematics & Computational Methods
 
